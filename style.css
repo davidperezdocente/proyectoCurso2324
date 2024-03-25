@@ -71,6 +71,10 @@ main{
   color: #333; 
 }
 
+.profesor{
+  width: 300px;
+}
+
 footer{
   text-transform: uppercase;
   font-family: 'Courier New', Courier, monospace;
